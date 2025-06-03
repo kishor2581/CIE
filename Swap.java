@@ -1,4 +1,3 @@
-package CIE2;
 
 public class Swap {
     public static int[] swap(int a, int b) {
